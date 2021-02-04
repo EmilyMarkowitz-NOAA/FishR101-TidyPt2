@@ -12,6 +12,10 @@ library(tidyverse)
 install.packages('tidytuesdayR')
 library(tidytuesdayR)
 
+# directories --------------------------------------------------------------------
+
+source(here("functions", "file_folders.R"))
+
 
 # download data --------------------------------------------------------------------
 caribou <- tidytuesdayR::tt_load('2020-06-23')
