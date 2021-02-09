@@ -17,6 +17,8 @@ trees
 # you may ignore the parsing failures warning for this homework.
 
 tree_dat <- trees$sf_trees
+# having trouble downloading the data? Download it directly from here: https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-01-28
+
 
 # tasks -------------------------------------------------------------------
 
